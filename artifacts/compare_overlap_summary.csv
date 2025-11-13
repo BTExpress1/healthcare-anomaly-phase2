@@ -1,0 +1,6 @@
+metric,value
+ISO only,94.0
+LOF only,94.0
+Both,16.0
+Either,204.0
+Jaccard overlap,0.0784
